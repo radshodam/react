@@ -1,0 +1,33 @@
+body {
+    background-color: #0000002f;
+    margin: 0px;
+}
+
+.RadFL {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+
+.RH1 {
+    color: #49d69b;
+    background-color: #7e3e91;
+    text-align: center;
+    font-size: 2rem;
+    padding: 25px;
+    margin: 12px;
+}
+
+.RADmain {
+    color: #1a3128;
+    background-color: #3e913e;
+    text-align: right;
+    font-size: 2rem;
+    padding: 25px;
+    margin: 12px;
+}
+
+.sect {
+    padding: 25px;
+    text-align: justify;
+}
