@@ -1,8 +1,8 @@
 import React from "react";
-
-const Post =(props)=>{
+import Name from "./Name"
+const Post =(props)=>{//ya props ya {Name , lastNAme}
     return <div>
-    <h3>{props.name}</h3>
+    <Name text={props.name}></Name>
     <p>{props.lastName}</p>
   </div>;
 }

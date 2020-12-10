@@ -61,6 +61,10 @@ body {
     display: flex;
     justify-content: center;
 }
-
+.name{
+  font-size:2rem;
+  color:orange;
+  font-weight:bold;
+}
 
 /*# sourceMappingURL=style.css.map */
